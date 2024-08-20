@@ -48,9 +48,7 @@ npm run dev
 ### Backend
 
 - **Appwrite**: Secure and easy-to-use backend server for authentication and database management.
-## 📸 Screenshots
 
-Want a sneak peek? Here are some screenshots of the app in action!
 
 ## 🤝 Contributing
 
