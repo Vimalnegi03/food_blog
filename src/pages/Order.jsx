@@ -35,7 +35,7 @@ function OrderSummary() {
             </div>
           </div>
           <button className="btn">
-            <a href="https://www.phonepe.com/business-solutions/payment-gateway/register/?utm_source=sem_pg_exact&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745Au6WLfMWve7fRtjKD9IICEfZYg9jv2ThOPMx-gaLDVPeFunRhbOi0aAgVHEALw_wcB">
+            <a href="/order_confirmation">
               Proceed to payment
             </a>
           </button>

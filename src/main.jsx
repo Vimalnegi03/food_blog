@@ -17,6 +17,7 @@ import Post from "./pages/Post";
 
 import AllPosts from "./pages/AllReviews.jsx";
 import OrderSummary from './pages/Order.jsx'
+import Order_confirmation from './pages/Order_confirmation.jsx'
 const router = createBrowserRouter([
   {
     path: "/",
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
         {
             path: "/",
             element: <About />,
+        },
+        {
+            path: "/order_confirmation",
+            element: <Order_confirmation />,
         },
         {
             path: "/login",
